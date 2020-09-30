@@ -11,3 +11,5 @@ FASE 1
 * [Ejercicio 1 (.pdf)](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios1_Clustering_012.pdf)
 
 * [Mapa Mental 2](https://github.com/AlanZamMdrn/MineriaDts/blob/master/MapaMental_2_1625654.pdf)
+
+* [Resumenes Tecnicas](https://github.com/AlanZamMdrn/MineriaDts/blob/master/Resumenes_1625654.pdf)
