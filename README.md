@@ -13,3 +13,5 @@ FASE 1
 * [Mapa Mental 2](https://github.com/AlanZamMdrn/MineriaDts/blob/master/MapaMental_2_1625654.pdf)
 
 * [Resumenes Tecnicas](https://github.com/AlanZamMdrn/MineriaDts/blob/master/Resumenes_1625654.pdf)
+
+* [Problemas Bases de Datos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/1625654_BasesdeDatos_012.pdf)
