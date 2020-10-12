@@ -19,4 +19,4 @@ FASE 1
 
 FASE 2
 
-* [Ejercicios Python Basicos]()
+* [Ejercicios Python Basicos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/EjerciciosPython1.ipynb)
