@@ -14,9 +14,9 @@ FASE 1
 
 * [Resumenes Tecnicas](https://github.com/AlanZamMdrn/MineriaDts/blob/master/Resumenes_1625654.pdf)
 
-* [Problemas Bases de Datos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/1625654_BasesdeDatos_012.pdf)
+* [Problemas Bases de Datos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/AnalisisBD_1625654.pdf)
 ##
 
 FASE 2
 
-* [Ejercicios Python Basicos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/EjerciciosPython1.ipynb)
+* [Ejercicios Python Basicos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/PythonBasico_1625654.ipynb)
