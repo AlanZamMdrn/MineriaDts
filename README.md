@@ -21,3 +21,4 @@ FASE 2
 
 * [Ejercicios Python Basicos](https://github.com/AlanZamMdrn/MineriaDts/blob/master/PythonBasico_1625654.ipynb)
 * [Primer Avance Proyecto Final](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Avance1-PIA_3_012.pdf)
+* [Ejercicios Python Mineria de Datos](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20Datos.ipynb)
