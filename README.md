@@ -26,3 +26,8 @@ FASE 2
 
 FASE 3
 * [Segundo Avance Proyecto Final](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/AvancePIA_II_012_3.ipynb)
+##
+
+PIA
+* [Poster PIA](https://github.com/carladelagarzaf/Mineria-de-Datos/blob/master/Proyecto%20Final/PIA_3_12.pdf)
+* [Recursos](https://github.com/carladelagarzaf/Mineria-de-Datos/tree/master/Proyecto%20Final)
